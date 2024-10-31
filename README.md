@@ -1,1 +1,1 @@
-# frontend
+# Repository for legal documents
